@@ -1,0 +1,61 @@
+IPL season,Match Id,Team 1,Team 2,Winning Team,Innings1 runs,Innings1 wickets,Innings1 overs,Innings2 runs,Innings2 wickets,Innings2 overs,Venue,Date
+3,10618,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,185,6,20,190,5,19.1,"Arun Jaitley Stadium, Delhi",2010-03-19
+3,10619,Deccan Chargers,Kings XI Punjab,Deccan Chargers,170,7,20,164,8,20,"Barabati Stadium, Cuttack",2010-03-19
+3,10620,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,168,7,20,134,5,20,"Sardar Patel Stadium, Ahmedabad",2010-03-20
+3,10621,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,151,9,20,155,3,19.1,"Brabourne Stadium, Mumbai",2010-03-20
+3,10622,Deccan Chargers,Delhi Capitals,Deccan Chargers,171,6,20,161,9,20,"Barabati Stadium, Cuttack",2010-03-21
+3,10623,Kings XI Punjab,Chennai Super Kings,Match tied (Kings XI Punjab,136,8,20,136,7,20,"MA Chidambaram Stadium, Chennai",2010-03-21
+3,10624,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,155,3,20,156,3,18.3,"Brabourne Stadium, Mumbai",2010-03-22
+3,10625,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,171,5,20,135,7,20,"M.Chinnaswamy Stadium, Bengaluru",2010-03-23
+3,10626,Rajasthan Royals,Kings XI Punjab,Rajasthan Royals,183,5,20,152,10,19.1,"Punjab Cricket Association IS Bindra Stadium, Mohali",2010-03-24
+3,10627,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,183,4,20,166,9,20,"M.Chinnaswamy Stadium, Bengaluru",2010-03-25
+3,10628,Chennai Super Kings,Mumbai Indians,Mumbai Indians,180,2,20,181,5,19,"Brabourne Stadium, Mumbai",2010-03-25
+3,10629,Deccan Chargers,Rajasthan Royals,Rajasthan Royals,148,9,20,151,2,15.4,"Sardar Patel Stadium, Ahmedabad",2010-03-26
+3,10630,Kolkata Knight Riders,Kings XI Punjab,Kolkata Knight Riders,183,5,20,144,6,20,"Punjab Cricket Association IS Bindra Stadium, Mohali",2010-03-27
+3,10631,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,177,8,20,160,6,20,"Sardar Patel Stadium, Ahmedabad",2010-03-28
+3,10632,Mumbai Indians,Deccan Chargers,Mumbai Indians,172,7,20,131,10,17.4,"Dr DY Patil Sports Academy, Mumbai",2010-03-28
+3,10633,Delhi Capitals,Kolkata Knight Riders,Delhi Daredevils,177,4,20,137,9,20,"Arun Jaitley Stadium, Delhi",2010-03-29
+3,10634,Kings XI Punjab,Mumbai Indians,Mumbai Indians,163,10,20,164,6,19.3,"Brabourne Stadium, Mumbai",2010-03-30
+3,10635,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,161,4,20,162,5,18.5,"MA Chidambaram Stadium, Chennai",2010-03-31
+3,10636,Delhi Capitals,Rajasthan Royals,Delhi Daredevils,188,6,20,121,10,17.4,"Arun Jaitley Stadium, Delhi",2010-03-31
+3,10637,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,181,6,20,157,5,20,"Eden Gardens, Kolkata",2010-04-01
+3,10638,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,181,5,20,184,4,19.1,"Punjab Cricket Association IS Bindra Stadium, Mohali",2010-04-02
+3,10639,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,246,5,20,223,5,20,"MA Chidambaram Stadium, Chennai",2010-04-03
+3,10640,Mumbai Indians,Deccan Chargers,Mumbai Indians,178,5,20,115,10,18.2,"Brabourne Stadium, Mumbai",2010-04-03
+3,10641,Kolkata Knight Riders,Kings XI Punjab,Kings XI Punjab,200,3,20,204,2,18.2,"Eden Gardens, Kolkata",2010-04-04
+3,10642,Delhi Capitals,Royal Challengers Bangalore,Delhi Daredevils,184,5,20,147,9,20,"Arun Jaitley Stadium, Delhi",2010-04-04
+3,10643,Rajasthan Royals,Deccan Chargers,Rajasthan Royals,159,10,19.5,157,10,19.5,"Vidarbha Cricket Association Stadium, Nagpur",2010-04-05
+3,10644,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,165,4,20,141,9,20,"MA Chidambaram Stadium, Chennai",2010-04-06
+3,10645,Kings XI Punjab,Rajasthan Royals,Rajasthan Royals,153,6,20,157,1,15,"Sawai Mansingh Stadium, Jaipur",2010-04-07
+3,10646,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,181,3,20,167,8,20,"Eden Gardens, Kolkata",2010-04-07
+3,10647,Royal Challengers Bangalore,Deccan Chargers,Deccan Chargers,184,6,20,186,3,19.2,"M.Chinnaswamy Stadium, Bengaluru",2010-04-08
+3,10648,Mumbai Indians,Kings XI Punjab,Kings XI Punjab,154,9,20,158,4,19.2,"Punjab Cricket Association IS Bindra Stadium, Mohali",2010-04-09
+3,10649,Chennai Super Kings,Deccan Chargers,Deccan Chargers,138,8,20,139,4,19.1,"Vidarbha Cricket Association Stadium, Nagpur",2010-04-10
+3,10650,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,160,9,20,162,3,17.1,"M.Chinnaswamy Stadium, Bengaluru",2010-04-10
+3,10651,Delhi Capitals,Kings XI Punjab,Kings XI Punjab,111,10,19.4,112,3,18.4,"Arun Jaitley Stadium, Delhi",2010-04-11
+3,10652,Mumbai Indians,Rajasthan Royals,Mumbai Indians,174,5,20,137,8,20,"Sawai Mansingh Stadium, Jaipur",2010-04-11
+3,10653,Deccan Chargers,Royal Challengers Bangalore,Deccan Chargers,151,6,20,138,10,19.4,"Vidarbha Cricket Association Stadium, Nagpur",2010-04-12
+3,10654,Mumbai Indians,Delhi Capitals,Mumbai Indians,183,4,20,144,7,20,"Brabourne Stadium, Mumbai",2010-04-13
+3,10655,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,139,8,20,143,1,13.3,"MA Chidambaram Stadium, Chennai",2010-04-13
+3,10656,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,130,6,20,132,5,15.4,"Sawai Mansingh Stadium, Jaipur",2010-04-14
+3,10657,Chennai Super Kings,Delhi Capitals,Delhi Daredevils,112,9,20,113,4,18.4,"MA Chidambaram Stadium, Chennai",2010-04-15
+3,10658,Kings XI Punjab,Deccan Chargers,Deccan Chargers,174,3,20,178,5,19.1,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2010-04-16
+3,10659,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,191,4,20,134,9,20,"M.Chinnaswamy Stadium, Bengaluru",2010-04-17
+3,10660,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,132,9,20,133,2,16.1,"Eden Gardens, Kolkata",2010-04-17
+3,10661,Kings XI Punjab,Chennai Super Kings,Chennai Super Kings,192,3,20,195,4,19.4,"Himachal Pradesh Cricket Association Stadium, Dharamsala",2010-04-18
+3,10662,Deccan Chargers,Delhi Capitals,Deccan Chargers,145,7,20,134,7,20,"Arun Jaitley Stadium, Delhi",2010-04-18
+3,10663,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,133,8,20,135,1,17.3,"Eden Gardens, Kolkata",2010-04-19
+3,10664,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,184,5,20,149,9,20,"Dr DY Patil Sports Academy, Mumbai",2010-04-21
+3,10665,Chennai Super Kings,Deccan Chargers,Chennai Super Kings,142,7,20,104,10,19.2,"Dr DY Patil Sports Academy, Mumbai",2010-04-22
+3,10666,Deccan Chargers,Royal Challengers Bangalore,Royal Challengers Bangalore,82,10,18.3,86,1,13.5,"Dr DY Patil Sports Academy, Mumbai",2010-04-24
+3,10667,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,168,5,20,146,9,20,"Dr DY Patil Sports Academy, Mumbai",2010-04-25
+3,10668,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,203,3,20,204,2,18.5,"M.Chinnaswamy Stadium, Bengaluru",2010-03-16
+3,10669,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,164,3,20,109,10,19.2,"Eden Gardens, Kolkata",2010-03-16
+3,10670,Mumbai Indians,Delhi Capitals,Mumbai Indians,218,7,20,120,10,16.3,"Arun Jaitley Stadium, Delhi",2010-03-17
+3,10671,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,92,10,19.5,93,0,10.4,"M.Chinnaswamy Stadium, Bengaluru",2010-03-18
+3,10672,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,135,7,20,136,3,19.2,"Eden Gardens, Kolkata",2010-03-14
+3,10673,Deccan Chargers,Chennai Super Kings,Deccan Chargers,190,4,20,159,9,20,"MA Chidambaram Stadium, Chennai",2010-03-14
+3,10674,Rajasthan Royals,Delhi Capitals,Delhi Daredevils,141,6,20,142,4,17.1,"Sardar Patel Stadium, Ahmedabad",2010-03-15
+3,10675,Kings XI Punjab,Delhi Capitals,Delhi Daredevils,142,9,20,146,5,19.5,"Punjab Cricket Association IS Bindra Stadium, Mohali",2010-03-13
+3,10676,Mumbai Indians,Rajasthan Royals,Mumbai Indians,212,6,20,208,7,20,"Brabourne Stadium, Mumbai",2010-03-13
+3,10677,Kolkata Knight Riders,Deccan Chargers,Kolkata Knight Riders,161,4,20,150,7,20,"Dr DY Patil Sports Academy, Mumbai",2010-03-12
